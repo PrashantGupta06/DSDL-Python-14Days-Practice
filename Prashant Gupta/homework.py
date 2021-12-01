@@ -1,6 +1,6 @@
 list = [18,20,8,16,4,10,12,3]
 list.sort()
-num = list[4]
+num = list[-2]
 count = 0
 
 while num!=0:
